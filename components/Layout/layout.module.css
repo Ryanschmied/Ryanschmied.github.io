@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    height: calc(100vh);
+    background-color: #81d7ff;
+  }
+  
+  .main > section {
+    padding: 32px;
+    margin-top: 32px;
+  }
